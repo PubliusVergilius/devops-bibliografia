@@ -14,6 +14,7 @@ Objeto: Tentar explicar porque tais temas são importantes
 - Grafana
 - Prometheus
 ### Linux
+- Linux: Guia do Administrador do Sistem, Rubem E. Ferreira, 2,707 pág.: desatualizado por não tratar do 'systemd'.
 ### Engenharia de confiabilidade
 ### Gitops
 ### Cloud
