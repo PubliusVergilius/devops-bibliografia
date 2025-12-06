@@ -29,6 +29,7 @@ Objeto: Tentar explicar porque tais temas são importantes
 ### Segurança
 - General
   Microservices Security in Action, Prabath Siriwardena, 2020, Manning Publications, 616 pág.: segurança web e trata um pouco de kubernetes ( não recomendado ). 
+  Web Application Security: Exploitation and Countermeasures for Modern Web Applications, Andrew Hoffman, 2024, O'Reilly Media, 441 pág.:
 - DevSecOps
 ### Virtualização
 A implantação de sistemas distribuídos requer conhecimento avançado em virtualização. Proxmox, KVM e Openstack são tecnologias usadas frequentemente em datacenters. O sistemas de virtualização mais novos da AWS usam KVM, por exemplo.
