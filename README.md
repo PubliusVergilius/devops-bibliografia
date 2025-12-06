@@ -14,10 +14,12 @@ Objeto: Tentar explicar porque tais temas são importantes
 - Grafana
 - Prometheus
 ### Linux
-- Linux: Guia do Administrador do Sistem, Rubem E. Ferreira, 2,707 pág.: desatualizado por não tratar do 'systemd'.
+- Linux: Guia do Administrador do Sistem, Rubem E. Ferreira, 2 edição, 707 pág.: desatualizado por não tratar do 'Systemd'.
 ### Engenharia de confiabilidade
 ### Gitops
 ### Cloud
+- #### Fundamentos
+  - Computação em nuvem: Conceitos, Tecnologia, Segurança e Arquitetura, 2 edição, T. Erl e Eric B. Monroy, ~600 pág.: trata de como 'encontrar o valor da computação em nuvem' (o que primeiro julguei que tratasse de #finops). Obs: é adequado ter um bom conhecimento de redes de computadores e uma ideia de administração de servidores com linux.
 - Microserviços
 - AWS
 - GCP
@@ -25,6 +27,8 @@ Objeto: Tentar explicar porque tais temas são importantes
 - OpenStack
 - Oracle Cloud
 ### Segurança
+- General
+  Microservices Security in Action, Prabath Siriwardena, 2020, Manning Publications, 616 pág.: segurança web e trata um pouco de kubernetes ( não recomendado ). 
 - DevSecOps
 ### Virtualização
 A implantação de sistemas distribuídos requer conhecimento avançado em virtualização. Proxmox, KVM e Openstack são tecnologias usadas frequentemente em datacenters. O sistemas de virtualização mais novos da AWS usam KVM, por exemplo.
