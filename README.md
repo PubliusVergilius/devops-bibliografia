@@ -1,5 +1,4 @@
-# devops-bibliografia
-Pequena bibliografia crítica da engenharia de Devops
+# Pequena bibliografia crítica da engenharia de Devops
 - [Conceitos Fundamentais](#conceitos-fundamentais)
 - [Kubernetes](#kubernetes)
 - [Telemetria](#telemetria)
