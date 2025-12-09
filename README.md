@@ -1,15 +1,24 @@
 # devops-bibliografia
 Pequena bibliografia crítica da engenharia de Devops
+- [Conceitos Fundamentais](#conceitos-fundamentais)
+- [Kubernetes](#kubernetes)
+- [Telemetria](#telemetria)
+- [Linux](#linux)
+- [Engenharia de Confiabilidade (SRE)](#engenharia-de-confiabilidade)
+- [Gitops](#gitops)
+- [Cloud](#cloud)
+- [Segurança](#segurança)
+- [Virtualização](#virtualização)
 
 ## Tópicos importantes
 Objeto: Tentar explicar porque tais temas são importantes
-### Conceitos fundamentais
+
+### Conceitos Fundamentais
 - As três maneiras
 - Sistemas distribuídos
     Fundamentals of Devops and Software Delivery: A Hands-On Guide to Deploying and Managing Software in Production, Yevgeniy Brikman, 2025,  549 pag. 
 ### Kubernetes
-### Telemetria
-### Monitoramento
+### Telemetria e Monitoramento
 - OpenTelemetry
 - Grafana
 - Prometheus
