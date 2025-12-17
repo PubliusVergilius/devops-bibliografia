@@ -23,6 +23,7 @@ Objeto: Tentar explicar porque tais temas são importantes
 - Prometheus
 ### Linux
 - Linux: Guia do Administrador do Sistem, Rubem E. Ferreira, 2 edição, 707 pág.: desatualizado por não tratar do 'Systemd'.
+- Linux Networking Cookbook, Carla Schroder, O'REILLY, 599 pgs: é sobre casos de usos comuns com que um administrador de redes trabalharia. É de nível intermediário.
 ### Engenharia de confiabilidade
 ### Gitops
 ### Cloud
