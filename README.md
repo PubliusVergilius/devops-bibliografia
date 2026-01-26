@@ -17,6 +17,7 @@ Objeto: Tentar explicar porque tais temas são importantes
 - Sistemas distribuídos
     Fundamentals of Devops and Software Delivery: A Hands-On Guide to Deploying and Managing Software in Production, Yevgeniy Brikman, 2025,  549 pag. 
 ### Kubernetes
+[[kubernetes.md]]
 ### Telemetria e Monitoramento
 - OpenTelemetry
 - Grafana
